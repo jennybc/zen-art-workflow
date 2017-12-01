@@ -1,3 +1,6 @@
 .Rproj.user
 .Rhistory
 .RData
+img/
+*.key
+ubc-stat-courses.R
