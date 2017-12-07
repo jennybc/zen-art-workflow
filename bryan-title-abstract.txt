@@ -1,0 +1,4 @@
+Title: Zen and the aRt of Workflow Maintenance
+Speaker: Jenny Bryan
+
+My talk deals with two related themes: the ongoing discussion of "data science vs. statistics" and the importance of developing your own data analysis workflow. These topics are related in my mind because I believe, as academic statisticians, we have an unnecessarily narrow view of our discipline. The "data science vs statistics" debate brings this to a head, because the desire to join and even lead data science initiatives provides an incentive to broaden our mandate. What if we embraced the development and teaching of tools -- both mental and digital -- that address the entire data analysis process? We'll conclude with something very concrete: a tour of semi-recent developments in the R ecosystem, aimed at people who want to make their workflow more productive and less aggravating.
