@@ -16,20 +16,31 @@ See the slides on Speakerdeck:
 
 <http://stat545.com>
 
-Good enough practices in scientific computing by Wilson, Bryan, Cranston, Kitzes, Nederbragt, Teal
+Donoho's "50 Years of Data Science"
 
-* <https://doi.org/10.1371/journal.pcbi.1005510>
+  * <http://courses.csail.mit.edu/18.337/2015/docs/50YearsDataScience.pdf>
 
-Practical Data Science for Stats, PeerJ Preprint Collection
+UBC Master of Data Science
 
-  * <https://peerj.com/collections/50-practicaldatascistats/>
-  * <http://bit.ly/practical-data-sci>
+  * Courses: <https://ubc-mds.github.io/descriptions/>
 
-Excuse me, do you have a moment to talk about version control? by Bryan
+useR! 2004 re: Mächler
 
-  * <https://doi.org/10.7287/peerj.preprints.3159v2>
+  * <http://www.ci.tuwien.ac.at/Conferences/useR-2004/>
+  * Slides for keynotes: <http://www.ci.tuwien.ac.at/Conferences/useR-2004/Keynotes/>
+  
+Karl Broman's hipsteR site:
 
-<http://happygitwithr.com>
+ * <http://kbroman.org/hipsteR/>
+ 
+Tidyverse
+
+  * <https://www.tidyverse.org>
+  * <http://r4ds.had.co.nz>
+  
+RStudio Desktop:
+
+  * <https://www.rstudio.com/products/rstudio-desktop/>
 
 Tweets about #rstats tricks we wish we'd known sooner
 
@@ -38,5 +49,35 @@ Tweets about #rstats tricks we wish we'd known sooner
 
 [RStudio Projects](https://support.rstudio.com/hc/en-us/articles/200526207-Using-Projects)
 
+Trevor Branch tweet about expecting to redo your analysis:
+
+  * <https://twitter.com/TrevorABranch/status/648987799648014336>
+  
+Ruben's depictions of wife Isabella Brant (thanks to Matt Lincoln!)
+
+  * <https://commons.wikimedia.org/wiki/File:Drawing_of_Isabella_Brant_by_Peter_Paul_Rubens.jpg>
+  * <https://commons.wikimedia.org/wiki/File:Peter_Paul_Rubens_092.jpg>
+
 My [Ode to the here package](https://github.com/jennybc/here_here#readme), package author = [Kiril Müller](https://github.com/krlmlr)
+
+gapminder data cleaning is an example of analysis broken into pieces
+
+  * <https://github.com/jennybc/gapminder/tree/master/data-raw#readme>
+
+Excuse me, do you have a moment to talk about version control? by Bryan
+
+  * <https://doi.org/10.7287/peerj.preprints.3159v2>
+
+<http://happygitwithr.com>
+
+Practical Data Science for Stats, PeerJ Preprint Collection
+
+  * <https://peerj.com/collections/50-practicaldatascistats/>
+  * <http://bit.ly/practical-data-sci>
+
+Good enough practices in scientific computing by Wilson, Bryan, Cranston, Kitzes, Nederbragt, Teal
+
+* <https://doi.org/10.1371/journal.pcbi.1005510>
+
+
 
